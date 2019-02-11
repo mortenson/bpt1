@@ -1,0 +1,6 @@
+{
+  "name": "drupal/smorty",
+  "type": "drupal-theme",
+  "require": {
+  }
+}

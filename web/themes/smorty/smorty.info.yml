@@ -1,0 +1,16 @@
+name: smorty
+type: theme
+description: A sub theme for Bene
+package: Other
+core: 8.x
+libraries:
+  - smorty/smorty
+
+base theme: bene_parent
+
+regions:
+  site_branding: Site Branding
+  primary_nav: Primary Nav
+  secondary_nav: Secondary Nav
+  content: Content
+  footer: Footer
